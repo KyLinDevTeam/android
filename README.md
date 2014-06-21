@@ -1,5 +1,5 @@
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-11.0
+    repo init -u git://github.com/KyLinDevTeam/android.git -b kk
 
 Then to sync up:
 
